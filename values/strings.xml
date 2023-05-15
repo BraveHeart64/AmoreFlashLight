@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AmoreFlashLight</string>
+    <string name="close">Close</string>
+    <string name="error1">Error1</string>
+    <string name="your_device_does_not_have_a_flashlight_or_camera">Your device does not have a flashlight or camera</string>
+</resources>
